@@ -1,0 +1,109 @@
+2021-12-05 10:23:25,925 - INFO - Started initializing ENVIRONMENT...
+2021-12-05 10:23:25,925 - INFO - Started initializing world...
+2021-12-05 10:23:25,925 - INFO - Finished initializing world airports.
+2021-12-05 10:23:25,956 - INFO - Finished initializing world country data.
+2021-12-05 10:23:25,956 - INFO - Finished initializing world.
+2021-12-05 10:23:25,956 - INFO - Started initializing world Routes...
+2021-12-05 10:23:25,956 - INFO - Finished initializing world Routes.
+2021-12-05 10:23:25,956 - INFO - Started initializing passenger demand data...
+2021-12-05 10:23:25,972 - INFO - Finished initializing passenger demand data.
+2021-12-05 10:23:25,972 - INFO - Finished initializing ENVIRONMENT.
+2021-12-05 10:23:25,972 - INFO - Started building passenger booking pattern...
+2021-12-05 10:23:25,972 - INFO - Started creating passenger source and destination airport...
+2021-12-05 10:24:07,928 - INFO - Finished passenger path for day: 1
+2021-12-05 10:24:37,581 - INFO - Finished passenger path for day: 2
+2021-12-05 10:25:06,351 - INFO - Finished passenger path for day: 3
+2021-12-05 10:25:35,419 - INFO - Finished passenger path for day: 4
+2021-12-05 10:26:04,192 - INFO - Finished passenger path for day: 5
+2021-12-05 10:26:33,234 - INFO - Finished passenger path for day: 6
+2021-12-05 10:27:02,113 - INFO - Finished passenger path for day: 7
+2021-12-05 10:27:30,994 - INFO - Finished passenger path for day: 8
+2021-12-05 10:28:00,421 - INFO - Finished passenger path for day: 9
+2021-12-05 10:28:29,103 - INFO - Finished passenger path for day: 10
+2021-12-05 10:28:58,703 - INFO - Finished passenger path for day: 11
+2021-12-05 10:29:27,335 - INFO - Finished passenger path for day: 12
+2021-12-05 10:29:56,011 - INFO - Finished passenger path for day: 13
+2021-12-05 10:30:25,707 - INFO - Finished passenger path for day: 14
+2021-12-05 10:30:54,437 - INFO - Finished passenger path for day: 15
+2021-12-05 10:31:23,097 - INFO - Finished passenger path for day: 16
+2021-12-05 10:31:53,024 - INFO - Finished passenger path for day: 17
+2021-12-05 10:32:21,748 - INFO - Finished passenger path for day: 18
+2021-12-05 10:32:50,363 - INFO - Finished passenger path for day: 19
+2021-12-05 10:33:18,869 - INFO - Finished passenger path for day: 20
+2021-12-05 10:33:48,953 - INFO - Finished passenger path for day: 21
+2021-12-05 10:34:17,303 - INFO - Finished passenger path for day: 22
+2021-12-05 10:34:45,777 - INFO - Finished passenger path for day: 23
+2021-12-05 10:35:14,347 - INFO - Finished passenger path for day: 24
+2021-12-05 10:35:43,140 - INFO - Finished passenger path for day: 25
+2021-12-05 10:36:13,477 - INFO - Finished passenger path for day: 26
+2021-12-05 10:36:42,145 - INFO - Finished passenger path for day: 27
+2021-12-05 10:37:10,780 - INFO - Finished passenger path for day: 28
+2021-12-05 10:37:39,176 - INFO - Finished passenger path for day: 29
+2021-12-05 10:38:07,805 - INFO - Finished passenger path for day: 30
+2021-12-05 10:38:36,205 - INFO - Finished passenger path for day: 31
+2021-12-05 10:38:36,205 - INFO - Started saving passenger data for month 1...
+2021-12-05 10:42:00,983 - INFO - Finished saving passenger data for month 1.
+2021-12-05 10:42:31,591 - INFO - Finished passenger path for day: 32
+2021-12-05 10:43:01,858 - INFO - Finished passenger path for day: 33
+2021-12-05 10:43:32,451 - INFO - Finished passenger path for day: 34
+2021-12-05 10:44:02,016 - INFO - Finished passenger path for day: 35
+2021-12-05 10:44:31,007 - INFO - Finished passenger path for day: 36
+2021-12-05 10:45:00,628 - INFO - Finished passenger path for day: 37
+2021-12-05 10:45:29,308 - INFO - Finished passenger path for day: 38
+2021-12-05 10:45:58,109 - INFO - Finished passenger path for day: 39
+2021-12-05 10:46:26,395 - INFO - Finished passenger path for day: 40
+2021-12-05 10:46:55,341 - INFO - Finished passenger path for day: 41
+2021-12-05 10:47:23,660 - INFO - Finished passenger path for day: 42
+2021-12-05 10:47:52,878 - INFO - Finished passenger path for day: 43
+2021-12-05 10:48:21,108 - INFO - Finished passenger path for day: 44
+2021-12-05 10:48:49,502 - INFO - Finished passenger path for day: 45
+2021-12-05 10:49:18,758 - INFO - Finished passenger path for day: 46
+2021-12-05 10:49:47,108 - INFO - Finished passenger path for day: 47
+2021-12-05 10:50:15,240 - INFO - Finished passenger path for day: 48
+2021-12-05 10:50:44,294 - INFO - Finished passenger path for day: 49
+2021-12-05 10:51:13,917 - INFO - Finished passenger path for day: 50
+2021-12-05 10:51:42,573 - INFO - Finished passenger path for day: 51
+2021-12-05 10:52:11,577 - INFO - Finished passenger path for day: 52
+2021-12-05 10:52:40,026 - INFO - Finished passenger path for day: 53
+2021-12-05 10:53:09,811 - INFO - Finished passenger path for day: 54
+2021-12-05 10:53:38,246 - INFO - Finished passenger path for day: 55
+2021-12-05 10:54:06,424 - INFO - Finished passenger path for day: 56
+2021-12-05 10:54:34,788 - INFO - Finished passenger path for day: 57
+2021-12-05 10:55:03,135 - INFO - Finished passenger path for day: 58
+2021-12-05 10:55:31,421 - INFO - Finished passenger path for day: 59
+2021-12-05 10:55:31,421 - INFO - Started saving passenger data for month 2...
+2021-12-05 10:58:25,639 - INFO - Finished saving passenger data for month 2.
+2021-12-05 10:59:00,887 - INFO - Finished passenger path for day: 60
+2021-12-05 10:59:35,297 - INFO - Finished passenger path for day: 61
+2021-12-05 11:00:09,928 - INFO - Finished passenger path for day: 62
+2021-12-05 11:00:44,170 - INFO - Finished passenger path for day: 63
+2021-12-05 11:01:18,817 - INFO - Finished passenger path for day: 64
+2021-12-05 11:01:53,287 - INFO - Finished passenger path for day: 65
+2021-12-05 11:02:27,659 - INFO - Finished passenger path for day: 66
+2021-12-05 11:03:01,355 - INFO - Finished passenger path for day: 67
+2021-12-05 11:03:35,830 - INFO - Finished passenger path for day: 68
+2021-12-05 11:04:09,575 - INFO - Finished passenger path for day: 69
+2021-12-05 11:04:45,018 - INFO - Finished passenger path for day: 70
+2021-12-05 11:05:20,187 - INFO - Finished passenger path for day: 71
+2021-12-05 11:06:03,883 - INFO - Finished passenger path for day: 72
+2021-12-05 11:06:40,544 - INFO - Finished passenger path for day: 73
+2021-12-05 11:07:17,818 - INFO - Finished passenger path for day: 74
+2021-12-05 11:07:54,245 - INFO - Finished passenger path for day: 75
+2021-12-05 11:08:30,655 - INFO - Finished passenger path for day: 76
+2021-12-05 11:09:06,477 - INFO - Finished passenger path for day: 77
+2021-12-05 11:09:41,562 - INFO - Finished passenger path for day: 78
+2021-12-05 11:10:16,757 - INFO - Finished passenger path for day: 79
+2021-12-05 11:10:55,197 - INFO - Finished passenger path for day: 80
+2021-12-05 11:11:31,261 - INFO - Finished passenger path for day: 81
+2021-12-05 11:12:06,754 - INFO - Finished passenger path for day: 82
+2021-12-05 11:12:42,874 - INFO - Finished passenger path for day: 83
+2021-12-05 11:13:18,756 - INFO - Finished passenger path for day: 84
+2021-12-05 11:13:56,370 - INFO - Finished passenger path for day: 85
+2021-12-05 11:14:51,368 - INFO - Finished passenger path for day: 86
+2021-12-05 11:15:26,909 - INFO - Finished passenger path for day: 87
+2021-12-05 11:16:02,654 - INFO - Finished passenger path for day: 88
+2021-12-05 11:16:37,591 - INFO - Finished passenger path for day: 89
+2021-12-05 11:17:13,244 - INFO - Finished passenger path for day: 90
+2021-12-05 11:17:13,244 - INFO - Started saving passenger data for month 3...
+2021-12-05 11:23:12,366 - INFO - Finished saving passenger data for month 3.
+2021-12-05 11:25:08,468 - INFO - Finished passenger path for day: 91
