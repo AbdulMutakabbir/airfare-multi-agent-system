@@ -1,16 +1,19 @@
 class Country:
 
-    def __init__(self, airports):
-        self.country_name = None
-        self.airports = []
-        self.restricted_countries = []
+    def __init__(self, name ):
+        self.country_name = name
+        self.airports = {}
+        self.airlines = {}
+        self.population = 2000
 
-    def add_airport(self, airport):
-        self.airports.append(airport)
+    def __str__(self):
+        return self.country_name + "(" + str(len(self.airports)) + "," + str(len(self.airlines)) + "," + str(self.population) + ")"
 
-    def set_country_name(self, name):
-        if self.country_name is None:
-            self.country_name = name
+    def add_airport(self, airport_id, airport):
+        self.airports[airport_id] = airport
 
-    def add_restricted_countries(self, country):
-        self.restricted_countries.append(country)
+    def add_airline(self, airline_id, airline):
+        self.airlines[airline_id] = airline
+
+
+
